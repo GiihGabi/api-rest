@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "a2267017-94f6-4712-a0c5-95c521bfd0c1",
+		"name": "Api Rest - Caio",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27392927",
+		"_collection_link": "https://warped-capsule-345561.postman.co/workspace/Team-Workspace~bc887830-226f-4a97-8a18-a2484536d2de/collection/27392927-a2267017-94f6-4712-a0c5-95c521bfd0c1?action=share&source=collection_link&creator=27392927"
+	},
+	"item": [
+		{
+			"name": "Get - Todos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get - Individual",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Put",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -5,7 +5,6 @@ npm add express
 **RODAR O SERVIDOR**
 node server.js
 
-
 # Todos
 1. **GET**:
    - `http://localhost:3000/clients`
@@ -15,7 +14,7 @@ node server.js
    - `http://localhost:3000/clients/:id`
 
 3. **POST /clients**:
-   - `http://localhost:3000/clients`.
+   - `http://localhost:3000/clients`
      {
        "nome": "Pesso Nova",
        "email": "pessoa@exemplo.com"

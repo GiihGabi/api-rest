@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Giovanna Batista",
+    "usuario": "Giih Gabi",
+    "email": "giovanna@exemplo.com",
+    "endereco": {
+      "rua": "Avenida Sampaio Vidal",
+      "complemento": "Apt. 556",
+      "cidade": "Marília",
+      "cep": "17502-000"
+    },
+    "celular": "(11) 1234-5678",
+    "website": "giovanna.com.br"
+  },
+  {
+    "id": 2,
+    "nome": "Caio Coneglian",
+    "usuario": "Harry",
+    "email": "caio@exemplo.com",
+    "endereco": {
+      "rua": "Rua Barão do Rio Branco",
+      "complemento": "complemento 879",
+      "cidade": "Marília",
+      "cep": "17501-010"
+    },
+    "celular": "(11) 2345-6789",
+    "website": "caio.com.br"
+  },
+  {
+    "id": 3,
+    "nome": "Bianca Campos",
+    "usuario": "Samantha",
+    "email": "bianca@exemplo.com",
+    "endereco": {
+      "rua": "Avenida das Esmeraldas",
+      "complemento": "complemento 847",
+      "cidade": "Marília",
+      "cep": "17502-300"
+    },
+    "celular": "(11) 3456-7890",
+    "website": "bianca.com.br"
+  },
+  {
+    "id": 4,
+    "nome": "Luis Santana",
+    "usuario": "Karianne",
+    "email": "luis@exemplo.com",
+    "endereco": {
+      "rua": "Rua Siqueira Campos",
+      "complemento": "Apt. 692",
+      "cidade": "Marília",
+      "cep": "17501-040"
+    },
+    "celular": "(11) 4567-8901",
+    "website": "luis.com.br"
+  },
+  {
+    "id": 5,
+    "nome": "Arthur",
+    "usuario": "Kamren",
+    "email": "arthur@exemplo.com",
+    "endereco": {
+      "rua": "Avenida Getúlio Vargas",
+      "complemento": "complemento 351",
+      "cidade": "Marília",
+      "cep": "17501-000"
+    },
+    "celular": "(11) 5678-9012",
+    "website": "arthur.com.br"
+  }
+]
